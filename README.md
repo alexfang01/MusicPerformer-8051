@@ -27,3 +27,9 @@ Pressing a button plays a note and updates the LCD. Auto-play mode plays a song 
 
 ## Team
 Me, Sak, Au, Chang
+
+##Screenshots
+![image](https://github.com/user-attachments/assets/067b0184-1e50-4220-8875-09460e00742b)
+![image](https://github.com/user-attachments/assets/c431568f-cb95-4a50-a131-7f04e2ee9e4a)
+![image](https://github.com/user-attachments/assets/fe88486d-91f2-4ae5-9d6f-9832430f0888)
+![image](https://github.com/user-attachments/assets/d65b647e-b035-45c1-9ace-c6f953fcfc5e)
